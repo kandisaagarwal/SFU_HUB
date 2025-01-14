@@ -273,3 +273,6 @@ We have implemented code-based unit tests to ensure the reliability and function
 - Ensures all critical functionalities are thoroughly validated
 - The tests allow for clear documentation of expected behaviors
 
+### Credit
+
+Nicholas Medland​, Evan Feng​, Jasleen Kaur, Jeeya Khavadia​, Sean Louie​, Kandisa Agarwal
